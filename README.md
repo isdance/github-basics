@@ -1,6 +1,6 @@
-#github-basics
+# github-basics
 =============
 
-##Help me to understand github basics
+### Help me to understand github basics
 
-###[I'm learning this on lynda.com](http://www.lynda.com)
+###### I'm learning this on [lynda.com](http://www.lynda.com)
